@@ -1,0 +1,9 @@
+ultralytics
+kivy
+opencv-python
+numpy
+torch
+torchvision
+pillow
+colorsys
+threading
