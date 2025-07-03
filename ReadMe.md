@@ -140,7 +140,7 @@ The application provides a rich set of information overlaid on the video feed.
       * **ID{id}**: The unique tracking ID assigned by ByteTrack.
       * **{class\_name}**: The class of the object detected by YOLOv11.
       * **R{score}**: An optional Re-Identification confidence score. This only appears if OSNet successfully re-identifies a track, indicating the confidence of the match.
-      * **:{conf}**: The detection confidence score from YOLO, ranging from 0.0 to 1.0.
+      * **{conf}**: The detection confidence score from YOLO, ranging from 0.0 to 1.0.
   * **Status Bar**: A status line at the top provides real-time performance metrics, separated by `|`:
       * **Display**: The frames-per-second (FPS) of the user interface rendering. Aims for 60 FPS.
       * **Detect**: The FPS of the underlying detection and tracking model. This will be lower than the display FPS.
