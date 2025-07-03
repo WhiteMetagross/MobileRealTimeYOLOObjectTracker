@@ -69,11 +69,11 @@ For the application to work, your project folder should be structured as follows
 
 ```
 MobileRealTimeYOLOObjectTracker\
-├── MobileRealTimeYOLOObjectTracker.py  # Main Python application script
-├── bytetrack.yaml                      # Configuration file for the tracker
-├── requirements.txt                    # List of Python dependencies
-├── yolo11m.pt                          # YOLOv11 model weights (must be downloaded)
-└── osnet_ain_x1_0_imagenet.pth         # OSNet ReID model weights (must be downloaded)
+├── MobileRealTimeYOLOObjectTracker.py  #Main Python application program.
+├── bytetrack.yaml                      #Configuration file for the tracker.
+├── requirements.txt                    #List of Python dependencies.
+├── yolo11m.pt                          #YOLOv11 model weights (must be downloaded).
+└── osnet_ain_x1_0_imagenet.pth         #OSNet ReID model weights (must be downloaded).
 ```
 
 -----
