@@ -13,7 +13,7 @@ The core of the application is built on a combination of powerful model. It uses
 The entire system is optimized for CPU execution on mobile hardware, using multi-threading to ensure that the UI remains smooth while heavy processing tasks run in the background.
 
 ![](./visuals/MobileYOLOObjectTracker.gif)
-_Output_
+_The example video of detecting vehicles, and electronics._
 
 -----
 
